@@ -1,1 +1,6 @@
-Veille Technologique 
+Veille technologique :
+
+- Blog : https://dzone.com/
+- Reseaux Sociaux : X (Twitter) #devsecops
+- News : https://dzone.com/
+- Evenements : https://youtube.com/@DevoxxFRvideos
